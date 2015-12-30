@@ -46,6 +46,8 @@ $on-laptop:        800px;
 
 
 // Import partials from `sass_dir` (defaults to `_sass`)
+sass:
+   sass_dir:_sass
 @import
         "base",
         "layout",
